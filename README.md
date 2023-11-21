@@ -2,11 +2,8 @@
 
 # Smart Glasses Image Classification Project
 
-## Project Overview
-This project is part of a student's endeavor to explore image classification using OpenCV and Roboflow. The Python script integrates with a Roboflow-trained model to classify images captured by a camera, identifying objects and scenes based on pre-defined categories.
-
 ## Repository Contents
-- Python scripts for real-time image classification.
+- Python script for real-time image classification.
 - Configuration files for model integration.
 - Documentation on setup and execution.
 
